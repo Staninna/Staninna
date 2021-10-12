@@ -1,6 +1,6 @@
 ### Hi there I'm Stan aka [Staninna](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Staninna_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStaninna&screen_name=Staninna)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Staninna_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStaninna&screen_name=Staninna_)
 
 ## I'm a Student, Boyfriend, Developer and Idiot!!
 
@@ -19,3 +19,4 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
