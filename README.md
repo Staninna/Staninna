@@ -9,9 +9,11 @@
 
 ### Hook up with me:
 
-[<img align="left" alt="Staninna | Discord" width="22px" src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg" />](https://discord.com/channels/@me/535483800122032128)
+[<img align="left" alt="Staninna | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/channels/@me/535483800122032128)
 [<img align="left" alt="Staninna | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Staninna_)
 [<img align="left" alt="Staninna | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/Staninna)
+
+<br>
 
 ### Languages and Tools:
 
