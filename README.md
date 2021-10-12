@@ -33,7 +33,7 @@
 
 <img align="left" style="width=100px" alt="Staninna's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staninna&show_icon=true&hide_border=true&theme=dark&langs_count=8&layout=compact">
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ---
 
