@@ -36,5 +36,5 @@
 
 ---
 
-<img align="left" alt="Staninna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Staninna&show_icon=true&hide_border=true&theme=dark">
-<img align="left" alt="Staninna's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staninna&show_icon=true&hide_border=true&theme=dark&langs_count=8&layout=compact">
+<img align="left" style="width=45%" alt="Staninna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Staninna&show_icon=true&hide_border=true&theme=dark">
+<img align="left" style="width=45%" alt="Staninna's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staninna&show_icon=true&hide_border=true&theme=dark&langs_count=8&layout=compact">
