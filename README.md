@@ -9,6 +9,8 @@
 - 🥅 Goals: Having fun and learning things
 - ✔️ Fun Fact: My hair is currently blue
 
+---
+
 ### Hook up with me:
 
 [<img align="left" alt="Staninna | Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/channels/@me/535483800122032128)
@@ -17,6 +19,7 @@
 [<img align="left" alt="Staninna | Spotify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />](https://open.spotify.com/user/vjyh8y2mox894jysp0tnxbmus)
 
 <br>
+---
 
 ### Languages and Tools:
 
@@ -34,3 +37,4 @@
 ---
 
 <img align="left" alt="Staninna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Staninna&show_icon=true&hide_border=true&theme=dark">
+<img align="left" alt="Staninna's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staninna&show_icon=true&hide_border=true&theme=dark&langs_count=8&layout=compact">
