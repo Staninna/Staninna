@@ -1,7 +1,5 @@
 ### Hi there I'm Stan aka [Staninna](https://staninna.github.io/Staninna/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Staninna_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStaninna&screen_name=Staninna_)
-
 ## I'm a Student, Boyfriend, Developer and Idiot!!
 
 - 🛠️ I'm working on different things but mostly on my [terminal poke-stannies](https://github.com/Staninna/Poke-Stannies)
