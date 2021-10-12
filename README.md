@@ -9,7 +9,7 @@
 
 ### Hook up with me:
 
-[<img align="left" alt="Staninna | Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/channels/@me/535483800122032128)
+<!-- [<img align="left" alt="Staninna | Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/channels/@me/535483800122032128) -->
 [<img align="left" alt="Staninna | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Staninna_)
 [<img align="left" alt="Staninna | Reddit" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/Staninna)
 [<img align="left" alt="Staninna | Spotify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />](https://open.spotify.com/user/vjyh8y2mox894jysp0tnxbmus)
@@ -31,7 +31,7 @@
 
 <img align="left" style="width=100px" alt="Staninna's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staninna&show_icon=true&hide_border=true&theme=dark&langs_count=8&layout=compact">
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ---
 
