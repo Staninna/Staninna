@@ -2,7 +2,7 @@
 
 ## I'm a Student, Boyfriend, Developer and Idiot!!
 
-- 🛠️ I'm working on different things but mostly on diffrent things at the moment
+- 🛠️ I'm working on different things but mostly on different things at the moment
 - 📚 I'm also just a dude trying to learn different stuff
 - 🥅 Goals: Having fun and learning things
 - ✔️ Fun Fact: My hair is currently blue
