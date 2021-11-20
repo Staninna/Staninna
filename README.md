@@ -2,10 +2,6 @@
 
 <br>
 
-## I'm a Student, Boyfriend, Developer and Idiot!!
-
-<br>
-
 -   🛠️ I'm working on different things at the moment
 -   📚 I'm also just a dude trying to learn different stuff
 -   🥅 Goals: Having fun and learning things
